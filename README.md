@@ -25,7 +25,8 @@ An IoT-based smart irrigation system using an ESP32 that automates plant waterin
 - 0.96" OLED Display  
 - RGB LED  
 - Active Buzzer Module  
-- Breadboard and Power Supply Module  
+- Breadboard
+- Breadboard Power Supply Module  
 - Jumper Wires  
 
 ---
